@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-6qux1u.salamcuanwin.xyz/sitemap.xml
